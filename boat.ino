@@ -186,3 +186,6 @@ delay(200);
   if (color == 6) return 'R';
   if (color < 3) return 'S';
 }
+
+
+##comment
